@@ -57,7 +57,6 @@ public class playerControl : MonoBehaviour
         }
     }
 
-
     private void HandleMovement()
     {
         float horizontal = 0f;
